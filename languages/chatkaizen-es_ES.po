@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ChatKaizen 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-30 11:31-0000\n"
+"PO-Revision-Date: 2015-07-30 11:43-0000\n"
+"Last-Translator: Claudio <claudio@localhost>\n"
+"Language-Team: Pascual&Co <chatkaizen@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../chatkaizen.php:37
+msgid "User key"
+msgstr "Clave de usuario"
+
+#: ../chatkaizen.php:39
+msgid "To obtain a key, visit the <a href=\"appkaizen.appspot.com\">ChatKaizen website</a>"
+msgstr "Para obtener una clave, visite la <a href=\"appkaizen.appspot.com\">web de ChatKaizen</a>"
+
+#: ../chatkaizen.php:43
+msgid "Language"
+msgstr "Idioma"
+
+#: ../chatkaizen.php:47
+msgid "Spanish"
+msgstr "Español"
+
+#: ../chatkaizen.php:48
+msgid "English"
+msgstr "Inglés"
+
+#: ../chatkaizen.php:54
+msgid "Chat title when closed"
+msgstr "Título del chat cerrado"
+
+#: ../chatkaizen.php:59
+msgid "Title when open and online"
+msgstr "Título del chat abierto y online"
+
+#: ../chatkaizen.php:64
+msgid "Title when open but offline"
+msgstr "Título del chat abierto pero offline"
+
+msgid "Talk to your web visitors in real time from your Android device! ChatKaizen consists of two components: a chat widget and an Android application. This WordPress plugin installs the widget on your web site. To install the Android application on your device, browse to the plugin website with that device, log in and follow the instructions."
+msgstr "¡Hable con los visitantes de su web en tiempo real desde su dispositivo Android! ChatKaizen consiste en dos componentes: una ventanita de chat y una aplicación Android. Este plugin de WordPress instala la ventanita de chat en su sitio web. Para instalar la aplicación Android en su dispositivo, navegue a la web del plugin con su dispositivo, acceda a su cuenta y siga las instrucciones."
+
